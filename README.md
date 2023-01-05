@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.ibb.co/HzDV6YD/Screenshot-4.png" alt="Game Logo" width="520" height="335">
+ <img src="https://i.ibb.co/HzDV6YD/Screenshot-4.png" alt="Game Logo" width="400" height="257">
 </p>
 
 <h3 align="center">Mobile Suit Gundam: Epyon's Counter Attack</h3>
