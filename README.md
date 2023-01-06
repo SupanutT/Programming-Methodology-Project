@@ -86,27 +86,27 @@ Higher rounds **increase** your chances of receiving a new gun from a loot box d
 ### Gameplay
 This game's main menu will be displayed when the game begins.
 <p align="center">
- <img src="https://i.ibb.co/qBVynkT/ingame1.png" alt="Main menu" width="517" height="409">
+ <img src="https://github.com/SupanutT/Programming-Methodology-Project/blob/main/example/ingame1.png" alt="Main menu" width="517" height="409">
 </p>
 
 If you click on the **"INSTRUCTIONS"** text, you will be taken to the *Instructions page*, which contains all of the button keys needed to play this game.
 <p align="center">
- <img src="https://i.ibb.co/56FqYRD/ingame2.png" alt="Main menu" width="517" height="409">
+ <img src="https://github.com/SupanutT/Programming-Methodology-Project/blob/main/example/ingame2.png" alt="Main menu" width="517" height="409">
 </p>
 
 Back at the main menu, clicking the **"PLAY"** text will take you to the *in-game screen*, where you will see yourself as **Strike Gundam**. The enemy will approach you, so you must kill them before they attack you!
 <p align="center">
- <img src="https://i.ibb.co/FXFQctR/ingame3.png" alt="Main menu" width="517" height="409">
+ <img src="https://github.com/SupanutT/Programming-Methodology-Project/blob/main/example/ingame3.png" alt="Main menu" width="517" height="409">
 </p>
 
 As the developers of this game, we understand how difficult and intense it is. If you need to **pause** the game, simply press the **"P"** button on your keyboard at any time. If you're ready to return and save the world, press the **"P"** button once more.
 <p align="center">
- <img src="https://i.ibb.co/0FfzhMD/ingame4.png" alt="Main menu" width="517" height="409">
+ <img src="https://github.com/SupanutT/Programming-Methodology-Project/blob/main/example/ingame4.png" alt="Main menu" width="517" height="409">
 </p>
 
 The game ends when the player's health reaches *zero*. The highest wave and score will be displayed on the game over page. You can either **continue playing** or **exit the game**.
 <p align="center">
- <img src="https://i.ibb.co/wL6FqCX/ingame5.png" alt="Main menu" width="517" height="409">
+ <img src="https://github.com/SupanutT/Programming-Methodology-Project/blob/main/example/ingame5.png" alt="Main menu" width="517" height="409">
 </p>
 
 ## Run the game
