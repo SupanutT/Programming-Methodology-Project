@@ -105,13 +105,29 @@ The game ends when the player's health reaches *zero*. The highest wave and scor
  <img src="https://i.ibb.co/wL6FqCX/ingame5.png" alt="Main menu" width="517" height="409">
 </p>
 
+## Run the game
+### Run From Runnable JAR File
+1.  Install [java 18 or higher](https://www.java.com/en/download/)
+2.  Install [javaFX 19 or higher](https://gluonhq.com/products/javafx/)
+3.  Download [JAR File](https://github.com/SupanutT/Programming-Methodology-Project/blob/main/ProjectProgMeth.jar)
+4.  Run that JAR File via `cmd` by changing directory to the directory that contains the JAR File using the command below 
 
+```
+java -jar --module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.graphics,javafx.media,javafx.fxml ProjectProgMeth.jar
+```
 
-
+### Compile From Source
+1.  Install and open eclipse
+2.  Install the project from Github
+3.  Build path by adding JavaFX module
+4.  Set up the run configuration by type this in VM args section
+```
+--module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.graphics,javafx.media,javafx.fxml
+```
+5.  Execute Main.java
 
 ## About
-
-### Developer
+### Developers
 
 * <img src="https://avatars.githubusercontent.com/u/107112702" width="20" height="20">[ SupanutT](https://github.com/SupanutT)
 * <img src="https://avatars.githubusercontent.com/u/110981996" width="20" height="20">[ pinkyPingy](https://github.com/pinkyPingy)
