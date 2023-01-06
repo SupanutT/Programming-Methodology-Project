@@ -9,7 +9,11 @@
  [![Eclipse](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://https://eclipse.org/)
  [![made-with-java](https://img.shields.io/badge/Made%20with-Java-e76f00.svg)](https://www.java.com)
  [![javafx-version](https://img.shields.io/badge/JavaFX-v.19-1f425f.svg)](https://openjfx.io/)
- [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/SupanutT/Programming-Methodology-Project)
+ [![GitHub](https://img.shields.io/badge/-SupanutT-181717?logo=github&logoColor=ffffff)](https://github.com/SupanutT)
+ [![GitHub](https://img.shields.io/badge/-pinkyPingy-181717?logo=github&logoColor=ffffff)](https://github.com/pinkyPingy)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/n7ZSTfCemAA)
+ 
+ <!-- [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/SupanutT/Programming-Methodology-Project) -->
 
 </div>
 
@@ -68,16 +72,16 @@ Higher rounds **increase** your chances of receiving a new gun from a loot box d
 
 | Key | Action |
 | :-: | :----: |
-| W/Arrow Up | move up |
-| A/Arrow Left | move left |
-| S/Arrow Down | move down |
-| D/Arrow Right | move right |
-| P | pause/resume |
-| Num1 | change weapon to *Headgun* |
-| Num1 | change weapon to *Shotgun* |
-| Num1 | change weapon to *Uzi* |
-| Num1 | change weapon to *Sniper* |
-| spacebar | shoot |
+| **W/Arrow Up** | move up |
+| **A/Arrow Left** | move left |
+| **S/Arrow Down** | move down |
+| **D/Arrow Right** | move right |
+| **P** | pause/resume |
+| **Num1** | change weapon to *Headgun* |
+| **Num2** | change weapon to *Shotgun* |
+| **Num3** | change weapon to *Uzi* |
+| **Num4** | change weapon to *Sniper* |
+| **Spacebar** | shoot |
 
 ### Gameplay
 This game's main menu will be displayed when the game begins.
@@ -124,7 +128,7 @@ java -jar --module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.contro
 ```
 --module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.graphics,javafx.media,javafx.fxml
 ```
-5.  Execute Main.java
+5.  Run Main.java
 
 ## About
 ### Developers
@@ -132,5 +136,15 @@ java -jar --module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.contro
 * <img src="https://avatars.githubusercontent.com/u/107112702" width="20" height="20">[ SupanutT](https://github.com/SupanutT)
 * <img src="https://avatars.githubusercontent.com/u/110981996" width="20" height="20">[ pinkyPingy](https://github.com/pinkyPingy)
 
-## Contributing
-//TODO
+## Credits
+* Characters: [SD Gundam G Generation Cross Rays from spriters-resource.com](https://www.spriters-resource.com/pc_computer/sdgundamggenerationcrossrays/)
+* Guns: [vladpenn.itch.io](https://vladpenn.itch.io/weapon)
+* Ammo: [vladpenn.itch.io](https://vladpenn.itch.io/weapon)
+* Background in MainMenu: [Minitokyo.net](http://gallery.minitokyo.net/view/737366)
+* Background in GameScreen: [Tiny Dungeon from Kenney.nl](https://www.kenney.nl/assets/tiny-dungeon)
+* Background in GameEnd: [Zerochan.net](https://www.zerochan.net/3012128)
+* Sound Effect: [zmcj21/boxhead_res](https://github.com/zmcj21/boxhead_res)
+* Inspiration Repository: [emilegascoin/BoxHead](https://github.com/emilegascoin/BoxHead)
+
+
+
